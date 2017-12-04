@@ -9,13 +9,13 @@ class Header extends Component {
   render() {
     return (
 
-      <nav class="navbar navbar-default navbar-fixed-top topnav" role="navigation">
-          <div class="container topnav">
-              <div class="navbar-header">
-                  <a class="navbar-brand topnav" href="#">Patrick Moore</a>
+      <nav className="navbar navbar-default navbar-fixed-top topnav" role="navigation">
+          <div className="container topnav">
+              <div className="navbar-header">
+                  <a className="navbar-brand topnav" href="#">Patrick Moore</a>
               </div>
-              <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                  <ul class="nav navbar-nav navbar-right">
+              <div className="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                  <ul className="nav navbar-nav navbar-right">
                       <li>
                           <a href="#about">About</a>
                       </li>

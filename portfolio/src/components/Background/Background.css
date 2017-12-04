@@ -1,0 +1,6 @@
+.background-img {
+	padding-top: 760px;
+
+    background: url(./img/ftw.jpg) no-repeat center center;
+    background-size: cover;
+}
